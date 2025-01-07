@@ -3,8 +3,8 @@
 
 
 # My First Web Project 🌐  
-**Description**  
-Ini adalah proyek pertama saya dalam pengembangan web, dibangun sepenuhnya dengan HTML dan CSS. Proyek ini menampilkan landing page sederhana yang dirancang untuk memperkenalkan konsep dasar desain web responsif dan tata letak yang rapi.  Proyek ini menjadi proyek pertama saya dibidang ini.  
+ 
+Ini adalah proyek pertama saya dalam pengembangan web, dirancang sepenuhnya dengan HTML dan CSS. Proyek ini menampilkan landing page sederhana yang dirancang untuk memperkenalkan konsep dasar desain web responsif dan tata letak yang rapi.  Proyek ini menjadi proyek pertama saya dibidang ini.  
 
 **Features:**  
 - **Clean Design:** Struktur halaman yang jelas dan mudah dipahami.  
