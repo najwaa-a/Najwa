@@ -19,5 +19,3 @@ Ini adalah proyek pertama saya dalam pengembangan web, dirancang sepenuhnya deng
 
 
 Saya sangat bangga dengan pencapaian pertama ini dan berharap proyek ini menunjukkan perjalanan awal saya di dunia pengembangan web. 🚀  
-
-\
